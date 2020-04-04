@@ -19,7 +19,7 @@
  + *2 Tablespoon of liquid oil* 
  
  These are our ingredients. Let's see how to do it!
- ## The way do our Inegol Meatball is;
+ ## The way we do our Inegol Meatball is;
  1. Firstly we will put the minced meat to a deep bowl, to prepare the mixture.
  2. Grate the onion and squeeze it's water. Then put the onion, into the bowl.
  3. In order of; liquid oil, breadcrumbs, salt, baking soda, lemon juice (on baking soda), pour to the bowl.
