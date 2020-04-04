@@ -32,7 +32,19 @@
  10. ENJOY YOUR MEAL!
 
  |Size|Calori|
- |-----------|-----------|
+ |--------|--------|
  |1 Meatball|2 Calorie's|
  |1 Gram of Meatball|60 Calorie's|
  |100 Gram of Meatball|200 Calorie's|
+ 
+ 
+ 
+ 
+ 
+ ## Vücut Kitle İndeksleri:
+ |Kişi|Vücut Kitle İndeksi|
+ |-----------|-----------|
+ |Ahmet Salih Çağlar (Ben)|16,2 kg/m2|
+ |Şule Çağlar (Annem)|28,3 kg/m2|
+ |Ercan Çağlar (Babam)|22,1 kg/m2|
+ |Ayşegül Çağlar (Kardeşim)|15,3 kg/m2|
