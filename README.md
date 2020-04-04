@@ -4,7 +4,6 @@
 - ***20***
 # Inegol Meatball Recipe
  **Hi everyone, today i am going to tell you about the recipe of Inegol Meatball. Let's look at the ingredients.**
- ![Inegol Meatball](https://www.yemekev.com/uploads/images/gallery/yemekev-inegol-kofte-6.jpg)
  ## Ingredients 
  ### Meatball Ingredients:
  + *Half a kilo of minced meat*
@@ -30,6 +29,9 @@
  8. We pour the pan oil, open the bottom of the stove over low heat and cook it by shaking the meatballs. 
  9. Serve it hot. My advice is, to serve it with "ayran". 
  10. ENJOY YOUR MEAL!
+ 
+ Here is a photo of our meal.
+ ![Inegol Meatball](https://www.yemekev.com/uploads/images/gallery/yemekev-inegol-kofte-6.jpg)
 
  |Size|Calori|
  |--------|--------|
